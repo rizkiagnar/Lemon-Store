@@ -19,7 +19,7 @@ $p = mysqli_fetch_assoc(mysqli_query($conn, "SELECT * FROM products WHERE id=$id
         <div class="header-flex">
             <div class="logo-group">
                 <img src="img/Lemon.png" alt="Logo">
-                <p class="logo"><span>Lemon</span>Gadget Admin</p>
+                <p class="logo"><span>Lemon</span>Store Admin</p>
             </div>
             <nav class="nav-card">
                 <a href="admin.php">Produk</a>

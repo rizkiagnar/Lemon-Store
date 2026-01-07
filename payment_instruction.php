@@ -49,7 +49,7 @@ if ($tid > 0) {
         <div class="header-flex">
             <div class="logo-group">
                 <img src="img/Lemon.png" alt="Logo">
-                <p class="logo"><span>Lemon</span>Gadget</p>
+                <p class="logo"><span>Lemon</span>Store</p>
             </div>
             <nav class="nav-card">
                 <a href="index.php">Beranda</a>

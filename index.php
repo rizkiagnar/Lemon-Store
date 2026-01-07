@@ -21,7 +21,7 @@ if (!isset($_SESSION['cart'])) {
         <div class="header-flex">
             <div class="logo-group">
                 <img src="img/Lemon.png" alt="Logo">
-                <p class="logo"><span>Lemon</span>Gadget</p>
+                <p class="logo"><span>Lemon</span>Store</p>
             </div>
             <nav class="nav-card">
                 <a href="products.php">Shop</a>
@@ -68,9 +68,9 @@ if (!isset($_SESSION['cart'])) {
         style="margin-top: 4rem; text-align: left; background: white; padding: 3rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
         <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
             <div style="flex: 1;">
-                <h2 style="text-align: left;">Tentang Lemon Gadget</h2>
+                <h2 style="text-align: left;">Tentang Lemon Store</h2>
                 <p style="line-height: 1.6; color: #555;">
-                    Lemon Gadget Store adalah pusat belanja elektronik terpercaya yang menyediakan berbagai macam
+                    Lemon Store adalah pusat belanja elektronik terpercaya yang menyediakan berbagai macam
                     gadget terkini.
                     Kami berkomitmen untuk memberikan produk <strong>100% Original</strong> dengan <strong>Garansi
                         Resmi</strong>.
